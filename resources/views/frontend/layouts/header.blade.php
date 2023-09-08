@@ -43,26 +43,26 @@
               <li class="menu-item-has-children">
                     <a href="#">About Us</a>
                     <ul class="sub-menu">
-                        <li><a href="index.html">Our History</a></li>
-                        <li><a href="index2.html">Registration and Affiliations</a></li>
-                        <li><a href="index3.html">Achievements</a></li>
+                        <li><a href="{{ route('about') }}">Our History</a></li>
+                        <li><a href="#">Registration and Affiliations</a></li>
+                        <li><a href="#">Achievements</a></li>
                     </ul>
                 </li>
-                <li class="menu-item">
+                {{-- <li class="menu-item">
                   <a href="#">Objectives</a>
-                </li>
+                </li> --}}
                 <li class="menu-item">
                   <a href="{{ route('projects.all') }}">Projects</a>
                 </li>
-                <li class="menu-item">
+                {{-- <li class="menu-item">
                   <a href="#">Our Team</a>
-                </li>
+                </li> --}}
                 <li class="menu-item">
                   <a href="{{ route('blogs.all') }}">Blog</a>
                 </li>
                
                 <li class="menu-item">
-                  <a href="#">Contact Us</a>
+                  <a href="{{ route('contact') }}">Contact Us</a>
                 </li>
 
                
@@ -77,7 +77,7 @@
                     <i class="flaticon-user-1"></i>
                 </a>
             </div>
-            <a class="btn btn--style-two" href="donate.html">Volunteer</a>
+            <a class="btn btn--style-two" href="#">Volunteer</a>
         </div>
     </div>
 </nav>

@@ -23,9 +23,9 @@
                       <h5 class="widget-title">About</h5>
                       <ul>
                           <li><a href="{{ route('homepage') }}">Home</a></li>
-                          {{-- <li><a href="#">Donation</a></li> --}}
-                          <li><a href="#">About us</a></li>
-                          <li><a href="#">Event</a></li>
+                          <li><a href="#">Events</a></li>
+                          <li><a href="{{ route('blogs.all') }}">Blog</a></li>
+                          <li><a href="{{ route('projects.all')}}">Projects</a></li>
                       </ul>
                   </div>
               </div>
@@ -34,8 +34,8 @@
                       <h5 class="widget-title">Quick links</h5>
                       <ul>
                           <li><a href="{{ route('projects.all') }}">Projects</a></li>
-                          <li><a href="#">About</a></li>
-                          {{-- <li><a href="#">New campaign</a></li> --}}
+                          <li><a href="{{ route('about') }}">About</a></li>
+                          <li><a href="{{ route('contact') }}">Contact Us</a></li>
                           <li><a href="#">Site map</a></li>
                       </ul>
                   </div>
@@ -46,18 +46,13 @@
                           <div class="widget widget_gallery">
                               <h4 class="widget-title">Photo Gallery</h4>
                               <div class="gallery-photos">
-                                  <a href="/frontend/img/footer/gallery-two1.jpg"><img
-                                          src="/frontend/img/footer/gallery-two1.jpg" alt="Gallery"></a>
-                                  <a href="/frontend/img/footer/gallery-two2.jpg"><img
-                                          src="/frontend/img/footer/gallery-two2.jpg" alt="Gallery"></a>
-                                  <a href="/frontend/img/footer/gallery-two3.jpg"><img
-                                          src="/frontend/img/footer/gallery-two3.jpg" alt="Gallery"></a>
-                                  <a href="/frontend/img/footer/gallery-two4.jpg"><img
-                                          src="/frontend/img/footer/gallery-two4.jpg" alt="Gallery"></a>
-                                  <a href="/frontend/img/footer/gallery-two5.jpg"><img
-                                          src="/frontend/img/footer/gallery-two5.jpg" alt="Gallery"></a>
-                                  <a href="/frontend/img/footer/gallery-two6.jpg"><img
-                                          src="/frontend/img/footer/gallery-two6.jpg" alt="Gallery"></a>
+                                  <a href="/frontend/image1.jpeg"><img src="/frontend/image1.jpeg" alt="Gallery"></a>
+                                  <a href="/frontend/image2.jpeg"><img src="/frontend/image2.jpeg" alt="Gallery"></a>
+                                  <a href="/frontend/image3.jpeg"><img src="/frontend/image3.jpeg" alt="Gallery"></a>
+                                  <a href="/frontend/image4.jpeg"><img src="/frontend/image4.jpeg" alt="Gallery"></a>
+                                  <a href="/frontend/image5.jpeg"><img src="/frontend/image5.jpeg" alt="Gallery"></a>
+                                  <a href="/frontend/image1.jpeg"><img src="/frontend/image1.jpeg" alt="Gallery"></a>
+                                
                               </div>
                           </div>
                       </div>

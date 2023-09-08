@@ -113,4 +113,12 @@ Route::get('/projects', [ProjectsController::class, 'allProjects'])->name('proje
 Route::get('/events/{slug}',  [EventsController::class, 'show'])->name('events.show');
 
 
+Route::get('/about-us', function(){
+    return view("frontend.pages.about");
+})->name('about');
+Route::get('/contact-us', function(){
+    return view("frontend.pages.contact");
+})->name('contact');
+
+
 

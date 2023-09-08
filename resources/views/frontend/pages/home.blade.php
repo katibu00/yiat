@@ -328,7 +328,7 @@
   <!-- Volunteer area end -->
 
 
-  <!-- Testimonials area start -->
+  {{-- <!-- Testimonials area start -->
   <div class="testimonials-area-two pb-120">
       <div class="container">
           <div class="row gap-100 align-items-center">
@@ -404,7 +404,7 @@
           </div>
       </div>
   </div>
-  <!-- Testimonials area end -->
+  <!-- Testimonials area end --> --}}
 
 
   <!-- Call to action area start -->
