@@ -120,7 +120,7 @@
                         <div class="contact-info__icon"><i class="flaticon-phone-call"></i></div>
                         <h5>Phone Number</h5>
                         <div class="contact-info__text">
-                            <a href="callto:+2348124764130">+ (234) 812 476 4130 
+                            <a href="callto:+2348124764130">+ (234) 706 045 0105 
                             </a><br>
                         </div>
                     </div>
@@ -130,7 +130,7 @@
                         <div class="contact-info__icon"><i class="fas fa-paper-plane"></i></div>
                         <h5>Email Address</h5>
                         <div class="contact-info__text">
-                            <a href="mailto:info@yiat.com">info@yiat.org</a><br>
+                            <a href="mailto:info@yiat.com">admin@yiat.org</a><br>
                         </div>
                     </div>
                 </div>
