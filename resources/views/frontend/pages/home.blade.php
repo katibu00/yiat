@@ -542,7 +542,7 @@
 
 
   <!-- Client Logo area start -->
-  <div class="client-logo-area bgc-lighter py-30">
+  {{-- <div class="client-logo-area bgc-lighter py-30">
       <div class="container">
           <div class="client-logo-wrap">
               <div class="client-logo-item">
@@ -562,7 +562,7 @@
               </div>
           </div>
       </div>
-  </div>
+  </div> --}}
   <!-- Client Logo area end -->
 
 
