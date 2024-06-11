@@ -196,8 +196,8 @@
           <div class="row gap-60 align-items-center">
               <div class="col-lg-6">
                   <div class="volunteer-left-image rel rmb-65">
-                      <img src="/frontend/img/valunteer/volunteer-left.jpg" alt="valunteer">
-                      <img class="circle" src="/frontend/img/valunteer/volunteer-left-circle.jpg" alt="valunteer">
+                      <img src="/frontend/boko_haram.jpeg" alt="valunteer">
+                      {{-- <img class="circle" src="/frontend/img/valunteer/volunteer-left-circle.jpg" alt="valunteer"> --}}
                       <img class="shape top_image_bounce" src="/frontend/img/shapes/three-round-big-green.png"
                           alt="Shape">
                   </div>
@@ -211,8 +211,7 @@
                       <form action="#" class="volunteer-form">
                           <div class="row">
                               <div class="col-xl-9 mb-30">
-                                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                      incididunt</p>
+                                  <p></p>
                               </div>
                               <div class="col-sm-6">
                                   <div class="form-group">
@@ -265,7 +264,7 @@
 
 
   <!-- Volunteer area start -->
-  <div class="volunteer-area-two pt-120 pb-90 rel z-1">
+  {{-- <div class="volunteer-area-two pt-120 pb-90 rel z-1">
       <div class="container">
           <div class="row justify-content-center">
               <div class="col-xl-6 col-lg-8 col-md-10">
@@ -324,7 +323,7 @@
               </div>
           </div>
       </div>
-  </div>
+  </div> --}}
   <!-- Volunteer area end -->
 
 

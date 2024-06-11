@@ -4,14 +4,14 @@
         <div class="navtop-inner">
             <ul class="topbar-left">
                 <li><span>Call Us</span>: 08033174228 </li>
-                <li><i class="flaticon-pin"></i> Shiloh, Hawaii 81063</li>
+                <li><i class="flaticon-pin"></i> No. 120 Gujba Road, Damaturu, Nigeria</li>
             </ul>
             <ul class="topbar-right">
                 <li class="social-area">
                     <span>Follow Us </span>
-                    <a href="#"><i class="fab fa-facebook-f text-white"></i></a>
-                    <a href="#"><i class="fab fa-twitter text-white"></i></a>
-                    <a href="#"><i class="fab fa-linkedin-in text-white"></i></a>
+                    <a href="https://www.facebook.com/YouthInitiativeAgainstTerrorism"><i class="fab fa-facebook-f text-white"></i></a>
+                    {{-- <a href="#"><i class="fab fa-twitter text-white"></i></a>
+                    <a href="#"><i class="fab fa-linkedin-in text-white"></i></a> --}}
                 </li>
             </ul>
         </div>
